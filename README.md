@@ -1,6 +1,6 @@
 ### Hi, am Racheal 👋
 
-<img align="left" src="assets/images/IMG_20200803_131641.jpg" />
+<img align="left" src="https://github.com/RayceeM/RayceeM/blob/master/assets/images/IMG_20200803_131641.jpg" />
 
 &nbsp; I am a Software Engineer at ona.io (coolest place to work by the way!)
 
