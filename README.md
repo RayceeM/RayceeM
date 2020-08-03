@@ -20,5 +20,5 @@ I am a Software Engineer at ona.io (coolest place to work by the way!)
  Website: Coming soon..
  
  
- ### ⚡ Fun fact: ...
+ ### ⚡ Fun fact: 
  - I am a tattoo and piercing fanatic who has no tattoos
