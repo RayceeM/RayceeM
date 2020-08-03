@@ -1,11 +1,14 @@
 ### Hi, am Racheal 👋
 
-<img src="https://github.com/RayceeM/RayceeM/blob/master/assets/images/hero-bg.jpg" />
+<img src="https://github.com/RayceeM/RayceeM/blob/master/assets/images/JPG_1596457181416.jpg" />
 
- I am a Software Engineer at ona.io (coolest place to work by the way!)
+ I am a Software Engineer at ona.io (coolest place to work by the way!) with experience in Clojure and ClojureScript. Am also a community organizer for Rails Girls Kenya and I advocate for more women in tech.
+
+ I also do alot of writing. Check out my blogs here 👉🏿 [blogs](https://medium.com/@mwatelaraycee33)
 
 ### 🎯 2020 goals
  - Writing a book! Yeah, I am super excited to be working on that and will update that once am done!
+ - Pair with someone to work on a Ruby on Rails project (I have a couple on backlog that am excited to try out)
  
  ### 🌱 I’m currently learning 
  #### Javascript
@@ -14,9 +17,9 @@
  - Because you never forget your first love😉. Interested to join me? Reach out on my social links below
  
  ### 📫 How to reach me:
- Twitter: https://twitter.com/m_raycee
+ Twitter: [Twitter link](https://twitter.com/m_raycee)
  
- Linkedin: https://www.linkedin.com/in/racheal-mwatela-50543793
+ Linkedin: [Linkedin link](https://www.linkedin.com/in/racheal-mwatela-50543793)
  
  Website: Coming soon..
  
