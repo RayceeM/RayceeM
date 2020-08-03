@@ -1,16 +1,24 @@
-### Hi there 👋
+### Hi, am Racheal 👋
 
-<!--
-**RayceeM/RayceeM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Software Engineer at ona.io (coolest place to work by the way!)
 
-Here are some ideas to get you started:
+### 🎯 2020 goals
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ - Writing a book! Yeah Am super excited to be working on that and will update that once am done!
+ 
+ ### 🌱 I’m currently learning 
+ #### Javascript
+ - As much as it's not my favourite right now. I think it is essential for all front-end developers to be familiar with JS.
+ #### Ruby
+ - Because you never forget your first love😉. Interested to join me? Reach out on my social links below
+ 
+ ### 📫 How to reach me:
+ Twitter: https://twitter.com/m_raycee
+ 
+ Linkedin: https://www.linkedin.com/in/racheal-mwatela-50543793
+ 
+ Website: Coming soon..
+ 
+ 
+ ### ⚡ Fun fact: ...
+ - I am a tattoo and piercing fanatic who has no tattoos
