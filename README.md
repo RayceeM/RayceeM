@@ -1,7 +1,5 @@
 ### Hi, am Racheal 👋
 
-<img src="https://github.com/RayceeM/RayceeM/blob/master/assets/images/JPG_1596457181416.jpg" />
-
  I am a Software Engineer with experience in Clojure and ClojureScript. I am also a community organizer for Rails Girls Kenya and an advocate for more women in tech.
 
  I do a lot of writing. Check out my blogs here 👉🏿 [blogs](https://medium.com/@mwatelaraycee33)
