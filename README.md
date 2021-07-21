@@ -3,11 +3,10 @@
  I am a Software Engineer with experience in Clojure and ClojureScript. I am also a community organizer for Rails Girls Kenya and an advocate for more women in tech.
 
  I do a lot of writing. Check out my blogs here 👉🏿 [blogs](https://medium.com/@mwatelaraycee33)
-
-### 🎯 2020 goals
- - Writing a book! Yeah, I am super excited to be working on that and I will update that once am done!
  
  ### 🌱 I’m currently learning 
+ #### Clojure
+ - My anology of why clojure - `it's like meeting a stranger and getting interested to know them more`
  #### Javascript
   - As much as it's not my favourite right now, I think it is essential for all front-end developers to be familiar with JS.
  #### Ruby
