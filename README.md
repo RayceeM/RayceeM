@@ -2,7 +2,7 @@
 
  I am a Software Engineer with experience in Clojure and ClojureScript. I am also a community organizer for Rails Girls Kenya and an advocate for more women in tech.
 
- I do a lot of writing. Check out my blogs here 👉🏿 [blogs](https://medium.com/@mwatelaraycee33)
+ I do a lot of writing. Check out my blog here 👉🏿 [blog](https://medium.com/@mwatelaraycee33)
  
  ### 🌱 I’m currently learning 
  #### Clojure
